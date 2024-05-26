@@ -1,3 +1,7 @@
+
+![image](https://github.com/a2rp/random-quotes-generator/assets/5670738/4b3aaa73-66c7-4b76-9f47-2bd70820d8f8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
